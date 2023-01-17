@@ -17,8 +17,7 @@ public class TestDatabaseConnection {
 			
 			@SuppressWarnings("unused")
 			Connection connection = DriverManager.getConnection
-					("jdbc:mysql://localhost:3306/hibernate-01-one-to-one-"
-							+ "unidirectional-mapping?useSSL=false&amp",
+					("jdbc:mysql://localhost:3306/hb-01-one-to-one-uni",
 							name,
 							password);
 			
