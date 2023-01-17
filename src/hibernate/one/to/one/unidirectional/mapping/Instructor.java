@@ -1,4 +1,4 @@
-package hibernate.one.to.one.mapping;
+package hibernate.one.to.one.unidirectional.mapping;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
