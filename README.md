@@ -1,7 +1,5 @@
 # hibernate-tutorial-2-one-to-one-mapping
 
-# hibernate-tutorial-2-one-to-one-mapping
-
 ---I. Project Purpose ----------------------------------------------------------------------------------- 
 	
 	- The project is based on Sections 22, 23 from the Udemy course
