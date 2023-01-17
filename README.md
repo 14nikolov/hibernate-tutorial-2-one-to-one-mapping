@@ -1,5 +1,4 @@
 # hibernate-tutorial-2-one-to-one-mapping
-hibernate-one-to-one-unidirectional-mapping
 
 # hibernate-tutorial-2-one-to-one-mapping
 
@@ -7,10 +6,15 @@ hibernate-one-to-one-unidirectional-mapping
 	
 	- The project is based on Sections 22, 23 from the Udemy course
 	 Spring & Hibernate for Beginners (includes Spring Boot) by Chad Darby
-
+	
+	- In these sections we learn about:
+		- Foreign Key in MySQL
+		- @OneToOne UniDirectional and BiDirectional Mapping in Hibernate
+		- Cascade Types of Hibernate/JPA
+	
 	- Sections (22-23) as of the time of making this project are as follows:
-    Section 22: Hibernate Advanced Mappings
-		Section 23: Hibernate Advanced Mappings - @OneToOne
+   		Section 22: Hibernate Advanced Mappings
+		Section 23: Hibernate Advanced Mappings - @OneToOne 
 	
 ---II. Project requires:---------------------------------------------------------------------------------------
 	
