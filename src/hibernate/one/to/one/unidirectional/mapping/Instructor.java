@@ -50,7 +50,7 @@ public class Instructor {
 	// with the Instructor Object (modify, delete, save, detach and etc) will
 	// also apply/happen to the InstructorDetail Entity/Object.
 	@OneToOne(cascade = CascadeType.ALL)
-	@JoinColumn(name="instructor_details_id")
+	@JoinColumn(name="instructor_detail_id")
 	private InstructorDetail instructorDetail;
 	
 	// Constructors

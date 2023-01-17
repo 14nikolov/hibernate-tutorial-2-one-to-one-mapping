@@ -17,7 +17,7 @@ public class TestDatabaseConnection {
 			
 			@SuppressWarnings("unused")
 			Connection connection = DriverManager.getConnection
-					("jdbc:mysql://localhost:3306/hb-01-one-to-one-uni",
+					("jdbc:mysql://localhost:3306/hibernate-tutorial-2-one-to-one-mapping",
 							name,
 							password);
 			
